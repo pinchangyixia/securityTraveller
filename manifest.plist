@@ -31,11 +31,11 @@
 				<key>bundle-identifier</key>
 				<string>com.besttone.securityTravellerTest</string>
 				<key>bundle-version</key>
-				<string>1.0.0</string>
+				<string>1.0.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>安境行</string>
+				<string>安境行-正式</string>
 			</dict>
 		</dict>
 	</array>
